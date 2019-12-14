@@ -1,6 +1,6 @@
 ---
 title: "Welcome To Swift by Hicks"
-date: YYYY-MM-DD
+date: 2019-12-14
 ---
 # Hello
 Hello
